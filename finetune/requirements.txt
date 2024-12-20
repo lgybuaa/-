@@ -1,0 +1,6 @@
+tqdm
+tensorboardX
+scikit-learn
+boto3
+requests
+regex
